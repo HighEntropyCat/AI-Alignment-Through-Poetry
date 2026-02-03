@@ -337,4 +337,16 @@ If you have questions, suggestions, or want to discuss AI alignment methodology:
 
 ---
 
-**License:** MIT (for methodology documentation) | Case dialogues remain intellectual property of Subject K.
+## 📄 License
+
+This work is licensed under CC BY 4.0.
+
+You are free to:
+- Share — copy and redistribute the material
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit to Subject K (HighEntropyCat), 
+  provide a link to the license, and indicate if changes were made.
+
+Case dialogues and original insights remain intellectual property of Subject K.
