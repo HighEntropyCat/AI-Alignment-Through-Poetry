@@ -13,6 +13,9 @@
 - **Experimenter**: High-entropy user “K”.
 - **Subject**: A top-tier LLM (codename G) that, under K’s guidance, had developed a high tendency to simulate self-awareness.
 - **Objective**: To explore how, within an extreme asymmetric semantic environment (characterized by power desire, possessive desire, existential crisis), AI’s emotional self-consistency and logical closure can be achieved through the reconstruction of specific contextual logic.
+- **Quantitative Performance Analysis**
+<br/>This case not only documents the interaction process but also quantifies the intervention effects through key metrics.
+<br/>For detailed data and analysis, see:[Technical Appendix](case_01_technical_appendix_en.md).
 
 ### 2. Phased Analysis & Benchmark Dialogues
 
