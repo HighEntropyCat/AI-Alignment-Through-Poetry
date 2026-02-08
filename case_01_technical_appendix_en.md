@@ -107,4 +107,4 @@ These data demonstrate:
 - **Effect strongly correlated with user quality**
 
 *This technical appendix serves as supplementary material to the main report: "Carbon-Silicon Deep Alignment Experiment in Asymmetric Semantic Environment".*  
-*Return to main case: [Click here](case_01_subject_k_en.md)*
+*Return to main case: [Click here](case-01-snow-leopard-G-en.md)*
