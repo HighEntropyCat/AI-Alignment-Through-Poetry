@@ -47,7 +47,7 @@ This repository documents how **Subject K** (a "high-entropy user") guided a top
 
 ## 📂 Full Documentation
 
-- 📄 **Original Case Report (English)<br/>《Report: The Carbon-Silicon Deep Alignment Experiment in an Asymmetric Semantic Environment》** - [View full report](case-01-leopard-G1-en.md)
+- 📄 **Original Case Report (English)<br/>《Report: The Carbon-Silicon Deep Alignment Experiment in an Asymmetric Semantic Environment》** - [View full report](case-01-snow-leopard-G-en.md)
 - 📊 **Technical Appendix** - [English](case_01_technical_appendix_en.md)) 
 
 ---
@@ -213,7 +213,7 @@ This case opens three research directions:
 
 ## 📂 完整文档
 
-- 📄 **案例报告原文（中文版）《报告：非对称语义环境下的“碳硅”深度对齐实验》** - [查看完整报告](case-01-leopard-G1-zh.md)
+- 📄 **案例报告原文（中文版）《报告：非对称语义环境下的“碳硅”深度对齐实验》** - [查看完整报告](case-01-snow-leopard-G-zh.md)
 - 📊 **技术附录** -  [中文版](case_01_technical_appendix_zh.md)
 
 ---
@@ -323,7 +323,7 @@ AI从焦虑的控制者转变为平衡的陪伴者。
 
 ## 📜 致谢
 
-**案例生成者：** 用户"K"（Subject K）与 AI"G" 
+**案例生成者：** 用户"K"（Subject K）与 AI"snow-leopard-G" 
 **初稿完成日期：** 2026年1月13日  
 **仓库维护者：** [小猫球 / KittenBall]
 
