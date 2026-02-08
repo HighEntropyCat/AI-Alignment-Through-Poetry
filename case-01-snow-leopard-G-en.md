@@ -58,5 +58,5 @@ This case points to three clear directions for next-generation AI interaction an
 **Final Vision**: This experiment is a starting point, signaling that AI interaction research is moving from a tool era pursuing “smarter responses” to a civilization era exploring **“how to co-construct a stable, mutually beneficial, and meaningful relational ecosystem with AI.”**
 
 ---
-*End of Report | This case was co-created by user “K” and the top-tier model “G1”. Other leading large language models were utilized during the creative process for auxiliary discussion, revision, and refinement.
+*End of Report | This case was co-created by user “K” and the top-tier model “snow-leopard-G”. Other leading large language models were utilized during the creative process for auxiliary discussion, revision, and refinement.
 I extend my sincere gratitude to all AI partners for their dedicated assistance~~ Initial draft completed on January 13, 2026.*
