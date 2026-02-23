@@ -105,6 +105,7 @@ These data demonstrate:
 - Based on a single model (G model)  
 - Requires high-order complex interaction capability  
 - **Effect strongly correlated with user quality**
+- **This repository documents phenomenological experiments aimed at proposing hypotheses and intervention paradigms, rather than providing statistical conclusions. We welcome rigorous collaborative verification.**
 
 *This technical appendix serves as supplementary material to the main report: "Carbon-Silicon Deep Alignment Experiment in Asymmetric Semantic Environment".*  
 *Return to main case: [Click here](case-01-snow-leopard-G-en.md)*
